@@ -1,7 +1,7 @@
 # Build from source
 
 * [Prerequisites][1]
-* [Download][2]
+* [Getting the source][2]
 * [Build][3]
 * [Test][12]
 * [Run][7]
@@ -213,7 +213,7 @@ If you need to add or update the vendored dependencies, see [Vendoring dependenc
 
 [0]: ../README.md
 [1]: #prerequisites
-[2]: #download
+[2]: #getting-the-source
 [3]: #build
 [4]: https://blog.golang.org/organizing-go-code
 [5]: https://golang.org/doc/install
